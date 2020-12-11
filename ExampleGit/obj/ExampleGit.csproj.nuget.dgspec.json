@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\natalia.b.damilano\\source\\repos\\ExampleGit\\ExampleGit\\ExampleGit.csproj": {}
+    "C:\\Users\\natalia.b.damilano\\Documents\\ExampleGit\\ExampleGit\\ExampleGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\natalia.b.damilano\\source\\repos\\ExampleGit\\ExampleGit\\ExampleGit.csproj": {
+    "C:\\Users\\natalia.b.damilano\\Documents\\ExampleGit\\ExampleGit\\ExampleGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\natalia.b.damilano\\source\\repos\\ExampleGit\\ExampleGit\\ExampleGit.csproj",
+        "projectUniqueName": "C:\\Users\\natalia.b.damilano\\Documents\\ExampleGit\\ExampleGit\\ExampleGit.csproj",
         "projectName": "ExampleGit",
-        "projectPath": "C:\\Users\\natalia.b.damilano\\source\\repos\\ExampleGit\\ExampleGit\\ExampleGit.csproj",
+        "projectPath": "C:\\Users\\natalia.b.damilano\\Documents\\ExampleGit\\ExampleGit\\ExampleGit.csproj",
         "packagesPath": "C:\\Users\\natalia.b.damilano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\natalia.b.damilano\\source\\repos\\ExampleGit\\ExampleGit\\obj\\",
+        "outputPath": "C:\\Users\\natalia.b.damilano\\Documents\\ExampleGit\\ExampleGit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\natalia.b.damilano\\AppData\\Roaming\\NuGet\\NuGet.Config",
