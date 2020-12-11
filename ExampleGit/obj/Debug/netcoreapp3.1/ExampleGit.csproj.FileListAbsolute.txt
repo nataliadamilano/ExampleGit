@@ -1,0 +1,13 @@
+C:\Users\natalia.b.damilano\source\repos\ExampleGit\ExampleGit\bin\Debug\netcoreapp3.1\ExampleGit.exe
+C:\Users\natalia.b.damilano\source\repos\ExampleGit\ExampleGit\bin\Debug\netcoreapp3.1\ExampleGit.deps.json
+C:\Users\natalia.b.damilano\source\repos\ExampleGit\ExampleGit\bin\Debug\netcoreapp3.1\ExampleGit.runtimeconfig.json
+C:\Users\natalia.b.damilano\source\repos\ExampleGit\ExampleGit\bin\Debug\netcoreapp3.1\ExampleGit.runtimeconfig.dev.json
+C:\Users\natalia.b.damilano\source\repos\ExampleGit\ExampleGit\bin\Debug\netcoreapp3.1\ExampleGit.dll
+C:\Users\natalia.b.damilano\source\repos\ExampleGit\ExampleGit\bin\Debug\netcoreapp3.1\ExampleGit.pdb
+C:\Users\natalia.b.damilano\source\repos\ExampleGit\ExampleGit\obj\Debug\netcoreapp3.1\ExampleGit.csprojAssemblyReference.cache
+C:\Users\natalia.b.damilano\source\repos\ExampleGit\ExampleGit\obj\Debug\netcoreapp3.1\ExampleGit.csproj.CoreCompileInputs.cache
+C:\Users\natalia.b.damilano\source\repos\ExampleGit\ExampleGit\obj\Debug\netcoreapp3.1\ExampleGit.AssemblyInfoInputs.cache
+C:\Users\natalia.b.damilano\source\repos\ExampleGit\ExampleGit\obj\Debug\netcoreapp3.1\ExampleGit.AssemblyInfo.cs
+C:\Users\natalia.b.damilano\source\repos\ExampleGit\ExampleGit\obj\Debug\netcoreapp3.1\ExampleGit.dll
+C:\Users\natalia.b.damilano\source\repos\ExampleGit\ExampleGit\obj\Debug\netcoreapp3.1\ExampleGit.pdb
+C:\Users\natalia.b.damilano\source\repos\ExampleGit\ExampleGit\obj\Debug\netcoreapp3.1\ExampleGit.genruntimeconfig.cache
